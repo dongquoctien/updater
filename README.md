@@ -3,4 +3,4 @@
 2. Update menu items
 3. Add icon menu "Check for update" new version
 4. Load content log
-5. Testtttttttttttttttttt 123
+6. Add function restart app
