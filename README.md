@@ -4,3 +4,4 @@
 3. Add icon menu "Check for update" new version
 4. Load content log
 6. Add function restart app
+7. Print HTML
