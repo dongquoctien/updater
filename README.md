@@ -1,4 +1,4 @@
-# Update version 1.0.8.0
+# Update version 1.1.1.0
 1. Fix bug template Payroll
 2. Update menu items
 3. Add icon menu "Check for update" new version
