@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.1.2.0</version>
-	<url>https://download1638.mediafire.com/o6gjk0q5hk1g1-JbijxViz-k8C_LCEw1TClaTqynVG7-dJOpAo6zP9hGEJd6FdkIRdpG1x23IH54HdMFPQ67JnLFDRZ60U65MECjz8qOeYu-rhw5t1SQlzMhEsOhbTRxsUlSgJ0wvM2r8tqYR8SOVZ89RrDHmrmE2c5Nac2vK7Q_/1ny63tg2kav4u8k/RICHv1.1.2.msi</url>
+	<version>1.1.3.0</version>
+	<url>https://download1649.mediafire.com/ky37s2olohvg0CyEslDBFUO3EjqSWHlvfQMOquqLrnju0yURhygtG7sp3gzqPUIvTKSlNc5B8_4X1qJ01TBnGO8C-BGRlAv41kifphAphOJFdsEwmcgIg6W5FeEzlDbXFwwTke2SqYdbG3fhm1pCjlP-P4bCjUj99c1ijdeWcdE0/ebcqgdmbkysg0ve/RICHv1.1.3.0.msi</url>
 	<changelog>https://raw.githubusercontent.com/dongquoctien/updater/main/README.md</changelog>
 	<mandatory>false</mandatory>
 </item>
