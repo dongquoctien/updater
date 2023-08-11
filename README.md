@@ -1,7 +1,2 @@
-# Update version 1.1.2.0
-1. Fix bug template Payroll
-2. Update menu items
-3. Add icon menu "Check for update" new version
-4. Load content log
-6. Add function restart app
-7. Print HTML
+# Update version 1.1.3
+1. Update print CSS3 | CSS Flexbox
