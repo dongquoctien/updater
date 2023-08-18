@@ -1,14 +1,10 @@
 {
     "version":"2.0.0.0",
-    "url":"https://rbsoft.org/downloads/AutoUpdaterTest.zip",
-    "changelog":"https://github.com/ravibpatel/AutoUpdater.NET/releases",
+    "url":"https://download.vn/rich-connector.msi",
+    "changelog":"https://raw.githubusercontent.com/dongquoctien/updater/main/README.md",
     "mandatory":{
        "value":true,
        "minVersion": "1.0.0.0",
        "mode":1
-    },
-    "checksum":{
-       "value":"E5F59E50FC91A9E52634FFCB11F32BD37FE0E2F1",
-       "hashingAlgorithm":"SHA1"
     }
  }
