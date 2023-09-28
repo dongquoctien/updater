@@ -1,4 +1,2 @@
 # Update version 1.1.8.0
-1. Fix bug print both receipts (Customer receipt, Merchant receipt)
-2. Config print -> POS-80C
-3.
+NẾU BẠN THẤY DÒNG NÀY, LÀ BẠN ĐANG CÀI VERSION < 1.1.6, VUI LÒNG CHẠY ĐÚNG APP 1.1.9 THÂN ÁI!
